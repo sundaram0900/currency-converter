@@ -1,0 +1,10 @@
+{
+  "name": "Conversion rates",
+  "version": "1.0",
+  "manifest_version": 3,
+  "description": "Extension to convert the indian currency to some other currency",
+  "action": {
+    "default_icon": "image.jpg",
+    "default_popup": "index.html"
+  }
+}
